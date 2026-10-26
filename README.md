@@ -8,14 +8,14 @@ As a Physics-specialized high school student, I use programming to strengthen my
 
 | Folder | Topics |
 |---|---|
-| [1. Basics](./01.%20Basics/) | C++ fundamentals |
-| [2. Array Strings](./02.%20Array%20Strings/) | Arrays and strings |
-| [3. Algorithms](./03.%20Algorithms/) | Algorithmic problem solving |
-| [4. Recursion](./04.%20Recursion/) | Recursive approaches |
-| [5. Dynamic Programming](./05.%20Dynamic%20Programming/) | Dynamic programming exercises |
-| [6. Combinatorics and Backtracking](./06.%20Combinatorics%20and%20Backtracking/) | Combinatorics and backtracking |
-| [7. STL](./07.%20STL/) | C++ Standard Template Library |
-| [8. Test](./08.%20Test/) | Test files and practice |
+| [1. Basics](./1.%20Basics/) | C++ fundamentals |
+| [2. Array Strings](./2.%20Array%20Strings/) | Arrays and strings |
+| [3. Algorithms](./3.%20Algorithms/) | Algorithmic problem solving |
+| [4. Recursion](./4.%20Recursion/) | Recursive approaches |
+| [5. Dynamic Programming](./5.%20Dynamic%20Programming/) | Dynamic programming exercises |
+| [6. Combinatorics and Backtracking](./6.%20Combinatorics%20and%20Backtracking/) | Combinatorics and backtracking |
+| [7. STL](./7.%20STL/) | C++ Standard Template Library |
+| [8. Test](./8.%20Test/) | Test files and practice |
 
 ## Languages and Tools
 
