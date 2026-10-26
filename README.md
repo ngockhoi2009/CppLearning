@@ -16,7 +16,7 @@ This repository records my progress in learning C++ through practice problems ac
 - **Recursion and Backtracking** — exploring recursive approaches to problems
 - **Dynamic Programming** — practicing problems that involve overlapping subproblems
 - **Data Structures and STL** — working with common data structures and C++ Standard Library tools
-- **Advanced Mathematical Problem Solving** — translating mathematical reasoning into code
+- **Test** — compiling math problems requiring a combiniation of various techniques to solve
 
 *The topics listed above describe the areas I have studied; the depth of practice varies by topic.*
 
