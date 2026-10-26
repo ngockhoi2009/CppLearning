@@ -13,7 +13,7 @@ As a Physics-specialized high school student, I use programming to strengthen my
 | [3. Algorithms](./3.%20Algorithms/) | Algorithmic problem solving |
 | [4. Recursion](./4.%20Recursion/) | Recursive approaches |
 | [5. Dynamic Programming](./5.%20Dynamic%20Programming/) | Dynamic programming exercises |
-| [6. Combinatorics and Backtracking](./6.%20Combinatorics%20and%20Backtracking/) | Combinatorics and backtracking |
+| [6. Combinatorics and Backtracking](./6.%20Combinatoric%20and%20Backtracking/) | Combinatorics and backtracking |
 | [7. STL](./7.%20STL/) | C++ Standard Template Library |
 | [8. Test](./8.%20Test/) | Test files and practice |
 
