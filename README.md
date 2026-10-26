@@ -1,62 +1,61 @@
 # C++ Problem-Solving Portfolio
 
-A collection of C++ exercises documenting my independent programming practice, problem-solving process, and growing understanding of computer science fundamentals.
+A collection of C++ exercises documenting my independent programming practice and the development of my problem-solving skills.
 
-As a Physics-specialized high school student, I use programming to strengthen my logical reasoning and learn to approach problems in a structured way.
+As a Physics-specialized high school student, I use programming to strengthen my logical reasoning and explore how computational thinking can be applied to mathematical and technical problems.
 
-## About This Repository
+## Repository Structure
 
-This repository records my progress in learning C++ through practice problems across different topics. Rather than serving as a collection of unrelated code snippets, it reflects my effort to understand programming concepts and apply them to concrete problems.
+| Folder | Topics |
+|---|---|
+| [01. Basics](./01.%20Basics/) | C++ fundamentals |
+| [02. Array Strings](./02.%20Array%20Strings/) | Arrays and strings |
+| [03. Algorithms](./03.%20Algorithms/) | Algorithmic problem solving |
+| [04. Recursion](./04.%20Recursion/) | Recursive approaches |
+| [05. Dynamic Programming](./05.%20Dynamic%20Programming/) | Dynamic programming exercises |
+| [06. Combinatorics and Backtracking](./06.%20Combinatorics%20and%20Backtracking/) | Combinatorics and backtracking |
+| [07. STL](./07.%20STL/) | C++ Standard Template Library |
+| [08. Test](./08.%20Test/) | Test files and practice |
 
-## Topics Covered
+## Languages and Tools
 
-- **C++ Fundamentals** — variables, data types, operators, conditions, loops, and functions
-- **Arrays and Strings** — working with sequences and text
-- **Algorithms** — implementing and applying problem-solving techniques
-- **Recursion and Backtracking** — exploring recursive approaches to problems
-- **Dynamic Programming** — practicing problems that involve overlapping subproblems
-- **Data Structures and STL** — working with common data structures and C++ Standard Library tools
-- **Test** — compiling math problems requiring a combiniation of various techniques to solve
+- **Language:** C++
+- **Standard Library:** C++ STL
+- **Compiler:** GCC / MinGW
 
-*The topics listed above describe the areas I have studied; the depth of practice varies by topic.*
+## Compile and Run
 
-## How to Run
-
-You need a C++ compiler such as GCC or MinGW.
-
-Compile a source file:
+Compile a source file with GCC:
 
 ```bash
 g++ -std=c++17 solution.cpp -o solution
 ```
 
-Run on Windows:
+On Windows:
 
 ```bash
 solution.exe
 ```
 
-Run on Linux or macOS:
+On Linux or macOS:
 
 ```bash
 ./solution
 ```
 
-Replace `solution.cpp` with the name of the source file you want to compile.
+Replace `solution.cpp` with the source file you want to compile.
 
 ## Learning Approach
 
-My approach to programming is based on:
+- Practice implementing solutions to programming problems
+- Develop structured and logical approaches to problem solving
+- Review code for correctness and clarity
+- Build a foundation for further study in algorithms and engineering
 
-- Breaking problems into smaller, manageable steps
-- Practicing implementation rather than relying on theory alone
-- Reviewing solutions to improve clarity and correctness
-- Building a foundation for further study in algorithms, engineering, and applied computing
+## About
 
-## Future Direction
-
-I plan to continue developing my programming skills and explore the connection between software, electronics, and intelligent systems through practical engineering projects.
+This repository is an ongoing record of my C++ learning journey. The exercises vary in topic and difficulty as I continue to develop my programming skills.
 
 ---
 
-*This repository is a record of an ongoing learning process.*
+*Learning by solving problems and building step by step.*
