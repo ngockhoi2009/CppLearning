@@ -1,6 +1,6 @@
 # C++ Problem-Solving Portfolio
 
-A collection of C++ exercises documenting my independent programming practice and the development of my problem-solving skills.
+A collection of C++ exercises documenting my programming practice and the development of my problem-solving skills.
 
 As a Physics-specialized high school student, I use programming to strengthen my logical reasoning and explore how computational thinking can be applied to mathematical and technical problems.
 
