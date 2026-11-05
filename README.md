@@ -23,28 +23,6 @@ As a Physics-specialized high school student, I use programming to strengthen my
 - **Standard Library:** C++ STL
 - **Compiler:** GCC / MinGW
 
-## Compile and Run
-
-Compile a source file with GCC:
-
-```bash
-g++ -std=c++17 solution.cpp -o solution
-```
-
-On Windows:
-
-```bash
-solution.exe
-```
-
-On Linux or macOS:
-
-```bash
-./solution
-```
-
-Replace `solution.cpp` with the source file you want to compile.
-
 ## Learning Approach
 
 - Practice implementing solutions to programming problems
